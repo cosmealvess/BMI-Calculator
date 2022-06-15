@@ -10,6 +10,9 @@ import UIKit
 class ResultViewController: UIViewController {
     
     var bmiValue: String?
+    var bmiResult: String?
+   
+    
 
     @IBOutlet weak var bmiLabel: UILabel!
     @IBOutlet weak var advaceLabel: UILabel!
@@ -18,6 +21,7 @@ class ResultViewController: UIViewController {
         super.viewDidLoad()
         
         bmiLabel.text = bmiValue
+        advaceLabel.text = bmiResult
 
  
     }
@@ -25,6 +29,5 @@ class ResultViewController: UIViewController {
     @IBAction func recalculatePressed(_ sender: UIButton) {
         self.dismiss(animated: true, completion: nil)
     }
-    
 
 }
