@@ -1,5 +1,14 @@
 # BMI Calculator
- App developed from the IOS & Swift Bootcamp Udemy Course / Aplicativo foi desenvolvido a partir do curso IOS & Swift Bootcamp Udemy
+
+EN
+
+ App developed from the IOS & Swift Bootcamp Udemy Course. The knowledge and applied during the development of this application:
+ 
+ BR
+ 
+ Aplicativo foi desenvolvido a partir do curso IOS & Swift Bootcamp Udemy, abaixo os conhecimentos adquiridos e aplicados durante o desenvolvimento desse aplicativo:
+ 
+ 
 
 UISlider to Calculate the BMI
 
